@@ -1,0 +1,3 @@
+[submodule "bicycle-mounts"]
+	path = bicycle-mounts
+	url = https://github.com/mmalecki/bicycle-mounts
